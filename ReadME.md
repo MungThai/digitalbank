@@ -1,7 +1,7 @@
 # Digital Bank
 
-Open source : https://github.com/digisic/digitalbank-gen-one.git
-git clone https://github.com/digisic/digitalbank-gen-one.git
+Open source : https://github.com/MungThai/digitalbank.git
+git clone https://github.com/MungThai/digitalbank.git
 
 Digital Bank is a sample HTML5 Spring Boot application developed for exploratory purposes.
 
